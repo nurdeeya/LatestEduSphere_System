@@ -1,0 +1,16 @@
+
+# Composer dependencies
+/vendor/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
