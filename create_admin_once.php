@@ -5,7 +5,7 @@ require_once __DIR__ . '/config/database.php';
 $loginIdentifier = 'admin.esphere';
 $fullName = 'EduSphere Administrator';
 $email = 'admin@edusphere.local';
-$password = 'Fa17!Lmr-Z72xHfzr$';
+$password = 'Fa17!Lmr-Z72xHfzr$'; //password
 
 try {
     // Prevent creating the same account twice.
