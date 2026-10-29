@@ -2,7 +2,7 @@
 <?php
 require_once __DIR__ . '/config/database.php';
 
-$loginIdentifier = 'admin.esphere';
+$loginIdentifier = 'admin.esphere'; //username
 $fullName = 'EduSphere Administrator';
 $email = 'admin@edusphere.local'; //email
 $password = 'Fa17!Lmr-Z72xHfzr$'; //password
